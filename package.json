@@ -1,0 +1,15 @@
+{
+  "name": "firebase-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "Marcello",
+  "license": "MIT",
+  "description": "This is a project using Firebase for authentication and realtime database",
+  "dependencies": {
+    "firebase": "^10.14.1"
+  }
+}
